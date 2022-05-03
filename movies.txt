@@ -5,3 +5,7 @@ Welcome to movies
 3.KGF Chapter-2
 4.RRR
 5.Anime
+ The Anime watched:
+ a.Naruto
+ b.Dragon Ball Super
+ c.Attack On Titan
